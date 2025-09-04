@@ -13,8 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb14826-757b-4bba-b095-de081989db68" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gitbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gitbase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_learn.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,18 +37,23 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="32AzimPe3JHXz7VcqPkKdMPJcTo" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ 文件.list_learn.cpp.executor": "Run",
+    "C/C++ 文件.map_learn.cpp.executor": "Run",
+    "C/C++ 文件.sql_first.cpp.executor": "Run",
     "C/C++ 文件.template.cpp.executor": "Run",
+    "C/C++ 文件.vector_learn.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -61,16 +65,50 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="template.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gitbase" TARGET_NAME="template.cpp" CONFIG_NAME="template.cpp">
-      <option name="sourceFile" value="C:\gitbase\template.cpp" />
+  <component name="RunManager" selected="C/C++ 文件.map_learn.cpp">
+    <configuration name="未命名" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory">
+      <method v="2" />
+    </configuration>
+    <configuration name="list_learn.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gitbase" TARGET_NAME="list_learn.cpp" CONFIG_NAME="list_learn.cpp">
+      <option name="sourceFile" value="C:\gitbase\list_learn.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="map_learn.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gitbase" TARGET_NAME="map_learn.cpp" CONFIG_NAME="map_learn.cpp">
+      <option name="sourceFile" value="C:\gitbase\map_learn.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sql_first.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gitbase" TARGET_NAME="sql_first.cpp" CONFIG_NAME="sql_first.cpp">
+      <option name="sourceFile" value="C:\gitbase\sql_first.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector_learn.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gitbase" TARGET_NAME="vector_learn.cpp" CONFIG_NAME="vector_learn.cpp">
+      <option name="sourceFile" value="C:\gitbase\vector_learn.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.sql_first.cpp" />
+      <item itemvalue="C/C++ 文件.vector_learn.cpp" />
+      <item itemvalue="C/C++ 文件.list_learn.cpp" />
+      <item itemvalue="C/C++ 文件.map_learn.cpp" />
+      <item itemvalue="CMake 调试.未命名" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -81,10 +119,18 @@
       <updated>1756878293213</updated>
       <workItem from="1756878294415" duration="2000" />
       <workItem from="1756883445638" duration="1101000" />
+      <workItem from="1756885985176" duration="472000" />
+      <workItem from="1756886467096" duration="1742000" />
+      <workItem from="1756951187405" duration="3680000" />
+      <workItem from="1756965089891" duration="1030000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
